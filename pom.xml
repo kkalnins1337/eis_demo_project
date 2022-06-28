@@ -4,7 +4,7 @@
   <groupId>com.eiswebtest</groupId>
   <artifactId>web-app</artifactId>
   <packaging>war</packaging>
-  <version>1.0-RELEASE</version>
+  <version>1.1-RELEASE</version>
   <name>web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
